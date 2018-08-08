@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Hello"
+date:   2018-07-28 12:45:20 +0900
+categories: testcategory
+---
+Human being is a reed of one stalk. It is the weakest existence naturally. However , it is a thinking reed .
