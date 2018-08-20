@@ -15,7 +15,7 @@ LINE has been added unsendMessage in update. This allows you to cancel message s
 
 - GetCMSToken
 Get the cmstoken for LineAt. You can see it from iOS Console.
-
+![GetCMSToken](https://user-images.githubusercontent.com/16555696/44349439-fdeea700-a4d7-11e8-9a5e-7bc87cef259c.png)
 
 
 [Download](https://github.com/k0tayan/k0tayan.github.io/raw/master/_files/com.kotayan.linne_0.0.2_iphoneos-arm.deb)
