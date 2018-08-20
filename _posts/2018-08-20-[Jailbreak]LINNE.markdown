@@ -10,9 +10,7 @@ By the way, she has useful features.
 - Force Display Link Invitation Menu  
 It is useful for Japanese LINE Users. You don't have to logout to use link invitation. All you need to install this tweak to get link invitation menu. However the menu is displayed forcibly so the search bar is hidden. **You need to long press the menu to show the search bar**
 
-- DisableUnsendMessage
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">送信取り消し無効化(脱獄Tweak) <a href="https://t.co/9ucvXLW1wQ">pic.twitter.com/9ucvXLW1wQ</a></p>&mdash; こたやん (@kotayan_0415) <a href="https://twitter.com/kotayan_0415/status/1031128066448187392?ref_src=twsrc%5Etfw">2018年8月19日</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+- ![DisableUnsendMessage](https://twitter.com/kotayan_0415/status/1031128066448187392)
 LINE has been added unsendMessage in update. This allows you to cancel message sending. However, I am very concerned about the canceled messages. DisableUnsendMessage block unsendMessage and permanently keep the message on your iOS Device.
 
 - GetCMSToken
