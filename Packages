@@ -1,0 +1,17 @@
+Package: com.arikasu.gbpdemoscore
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: arikasu
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/GBPDemoScore.deb
+Size: 2644
+MD5sum: 6aed501f871db3da70050a91f4f57f57
+SHA1: bbbc37deb986de6e8a4c2037a2b2d0a59a0e2e21
+SHA256: 11438b531a5126e254e40f17f20ea30ab5a2dd4980a6ed3b703f7f47b1be25a6
+SHA512: dfbf5d0b53f8e877dbc3dbe2aacef01bc8fce13d141ecdc6fc07ecf390d9a0a6bbb21e36ff1b3230c0931aa1298a1be1e552c4c5cf5c712afd69ad8d537a086a
+Description: An awesome MobileSubstrate tweak!
+Name: GBPDemoScore
+Author: arikasu
+
