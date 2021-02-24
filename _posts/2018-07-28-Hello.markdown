@@ -4,4 +4,5 @@ title:  "Hello"
 date:   2018-07-28 12:45:20 +0900
 categories: testcategory
 ---
-Human being is a reed of one stalk. It is the weakest existence naturally. However , it is a thinking reed .
+『L'homme n'est qu'un roseau, le plus faible de la nature ; mais c'est un roseau pensant. Il ne faut pas que l'univers entier s'arme pour l'écraser : une vapeur, une goutte d'eau, suffit pour le tuer. Mais, quand l'univers l'écraserait, l'homme serait encore plus noble que ce qui le tue, puisqu'il sait qu'il meurt, et l'avantage que l'univers a sur lui ; l'univers n'en sait rien. Toute notre dignité consiste donc en la pensée. C'est de là qu'il faut nous relever et non de l'espace et de la durée que nous ne saurions remplir. Travaillons donc à bien penser : voilà le principe de la morale.(B.347, L.200)』  
+Blaise Pascal, Pensées
