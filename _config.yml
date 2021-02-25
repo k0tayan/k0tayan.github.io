@@ -26,7 +26,7 @@ github_username:  k0tayan
 # Build settings
 markdown: kramdown
 theme: minima
-google_analytics: G-E8BZX7866E
+google_analytics: UA-78302811-2
 plugins:
   - jekyll-feed
 
