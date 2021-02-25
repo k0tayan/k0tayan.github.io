@@ -4,8 +4,8 @@ title:  "[LINE/LINE@] Jailbreak tweak 『LINNE』"
 date:   2018-08-20 23:46:20 +0900
 categories: Line LineAt Jailbreak
 ---
-Hello. Today, I made Jailbreak Tweak named LINNE(りんね). There is no special meanings.But LINNE is a girl around 17 years old. She is still Beta version. And she is Beta version forever.  
-By the way, she has useful features.
+Hello. Today, I made Jailbreak Tweak named LINNE(りんね). There is no special meanings.  
+It has the following features.
 
 - [Force Display Link Invitation Menu](/line/jailbreak/2018/08/16/LINE-ForceDisplay.html)  
 It is useful for Japanese LINE Users. You don't have to logout to use link invitation.   
