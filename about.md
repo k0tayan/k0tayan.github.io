@@ -15,8 +15,6 @@ You can add this bot from [here](https://line.me/R/ti/p/%40hdi2947s)
 
 
 ## Social
-- [Twitter](https://twitter.com/kotayan_0415)
-- [YouTube(personal)](https://www.youtube.com/user/kotayan41555)
 - [GitHub](https://github.com/k0tayan)
 
 ## Support
