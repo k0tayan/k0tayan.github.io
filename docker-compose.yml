@@ -1,9 +1,12 @@
-version: '3.7'
+version: "3.7"
 services:
   app:
-    image: jekyll/jekyll:pages
-    command: jekyll serve --force_polling
+    container_name: jekyll
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: jekyll serve --no-watch --trace
     volumes:
-      - $PWD:/srv/jekyll
+      - ./:/srv/jekyll
     ports:
       - 4000:4000
