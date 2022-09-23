@@ -1,0 +1,3 @@
+# ブログみたいなものです
+
+https://kotayan.xyz/
